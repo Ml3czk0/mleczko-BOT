@@ -1,0 +1,39 @@
+{
+  "name": "connect",
+  "uprawnienia": "BRAK",
+  "ograniczenie": "4",
+  "_id": "TDChS",
+  "działania": [
+    {
+      "tytuł": "",
+      "autor": "",
+      "kolor": "",
+      "timestamp": "true",
+      "url": "",
+      "authorIcon": "",
+      "imageUrl": "",
+      "thumbUrl": "",
+      "storage": "1",
+      "varName": "osadzić",
+      "name": "Utwórz wiadomość osadzoną"
+    },
+    {
+      "storage": "1",
+      "varName": "osadzić",
+      "message": ": white_check_mark: \ n ** Dołączył do executorów executorów aktualny kanał głosowy! **",
+      "name": "Ustaw osadzony opis"
+    },
+    {
+      "storage": "1",
+      "varName": "osadzić",
+      "kanał": "0",
+      "varName2": "",
+      "name": "Wyślij wiadomość osadzoną"
+    },
+    {
+      "kanał": "0",
+      "varName": "",
+      "name": "Dołącz do kanału głosowego"
+    }
+  ]
+}
